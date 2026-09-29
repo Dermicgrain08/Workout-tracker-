@@ -1,0 +1,10 @@
+{
+  "name": "Forge Strength",
+  "short_name": "Forge",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04111f",
+  "theme_color": "#061a2f",
+  "description": "A simple personal workout and strength tracker."
+}
